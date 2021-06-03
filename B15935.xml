@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraignement, iudgement, confession, and execution of Humfrey Stafford gentleman Who on the tenth of this present month of Iune, 1607. suffered, at Saint Thomas of Waterings.</title>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15935</idno><idno type="EEBO-CITATION">99843170</idno>
+  <idno type="VID">176943</idno>
+  <idno type="EEBO-PROQUEST">2240854660</idno>
+  <idno type="STC">STC 23131</idno>
+  <idno type="STC">ESTC S107470</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843170e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 723:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraignement, iudgement, confession, and execution of Humfrey Stafford gentleman Who on the tenth of this present month of Iune, 1607. suffered, at Saint Thomas of Waterings.</title>
+               </titleStmt>
+               <extent>[22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. A[llde] for A. J[ohnson] and F. B[urton] &amp; are to be solde at the signe of the Flower-de-Luce and Crowne in Paules Church-yarde,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printers' and publishers'names from STC.</note>
+                  <note>Xylographic.</note>
+                  <note>Signatures: A⁴ (-A1) B-C⁴.</note>
+                  <note>Print faded and show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Stafford, Humfrey, d. 1607 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176943:1"/>
+            <pb facs="tcp:176943:1"/>
+            <p>THE Arraignement, <hi>Iudge<g ref="char:EOLhyphen"/>ment, Confession, and Execution</hi> of Humfrey Stafford Gentle<g ref="char:EOLhyphen"/>man. Who on the tenth of this present month of Iune, 1607. suffered, at Saint <hi>Thomas</hi> of <hi>Waterings.</hi>
+            </p>
+            <figure>
+               <figDesc>framed printer's device of Edward Allde, featuring a fleur-de-lis (McKerrow 270)</figDesc>
+               <head>
+                  <q>IN DOMINO CINFIDO</q>
+               </head>
+            </figure>
+            <p>AT LONDON Printed by <hi>E. A.</hi> for <hi>A.</hi> I. and F. <hi>B.</hi> &amp; are to be solde at the signe of the Flower-de-Luce and Crowne in Paules Church-yarde. 1607.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176943:2"/>
+            <pb facs="tcp:176943:2"/>
+            <head>To the World. Some speciall reasons for the pub<g ref="char:EOLhyphen"/>lication hereof.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>He worthie example of imparti<g ref="char:EOLhyphen"/>all Iustice in Dooming to death so haynous an offender, appeares more perspicuouslye in him, be<g ref="char:EOLhyphen"/>ing a Gentleman of high birth, and hono<g ref="char:EOLhyphen"/>rablie descended, then if it had bene execu<g ref="char:EOLhyphen"/>ted vpon a meaner offender.</p>
+            <p n="2">2. As he was a Gentleman of good birth, so his much companye keeping could not chuse but make his vitious life knowne vnto manye thousands, vnto whome happily the report of his repentant death, might neuer
+<pb facs="tcp:176943:3"/> come, it being as great and iust a cause of his friendes ioy and comfort, in that he made so godlye an end, as it was a cause of griefe and sorrowe in that he liued so vngodly a life.</p>
+            <p n="3">3. That his fall may be a warning to al such as shal reade it, to beware they run not such a race as hee did, least thereby their liues bee shortned as his was.</p>
+            <p n="4">4. Because that some out of an error, ey<g ref="char:EOLhyphen"/>ther of their owne hearing or vnderstanding, haue giuen it out that hee would haue dyed desperatelye, by casting himselfe from the Ladder, for the truth of which their asserti<g ref="char:EOLhyphen"/>on, they could not gather in all the time of his beeing vppon the Ladder, any the least reason to induce then so to thinke, for so farre was he from casting himselfe off, that not but by the strength of the Executioners Arme, hee could be turned off, because he would by no meanes be guiltie of his owne death.</p>
+            <p>Lastlye, knowe that some more particu<g ref="char:EOLhyphen"/>lars of his Arraignement and also of his Execu<g ref="char:EOLhyphen"/>tion, I could haue set downe, but the former with modestie cannot be well expressed here, although necessitie constrained them to be vt<g ref="char:EOLhyphen"/>tered
+<pb facs="tcp:176943:3"/> there, and the latter being thinges im<g ref="char:EOLhyphen"/>pertinent to this treatise, concerning his re<g ref="char:EOLhyphen"/>pentance, I willingly forbeare: yet are neither so sparingly touched, but that as much may be thereout gathered, as concernes eyther thee to knowe or me to write.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:176943:4"/>
+            <pb facs="tcp:176943:4"/>
+            <head>
+               <hi>The Arraignement, Conuiction</hi> and Iudgement of Humfiey Stafford Gentleman at the Kings-Bench-Barre at <hi>Westminster. May the eleuenth, and Iune the eight.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N the eleuenth of May, 1607. was endighted at the Kings Bench-bar at Westminster, before the Reue<g ref="char:EOLhyphen"/>rend Iudges there, <hi>Humfrey Staf<g ref="char:EOLhyphen"/>ford Gent.</hi> &amp;c. for that he had vp<g ref="char:EOLhyphen"/>pon the third of May, in the yeare of our Lord 1606. vnnaturally and feloniously, contrarie to the lawes of God and the King, vsed vnlawfull company with two Boyes, &amp; had them carnaly knowne, the one of them named <hi>Richard Robinson,</hi> the other <hi>Nicholas Crosse,</hi> the one a<g ref="char:EOLhyphen"/>bout the age of xvii. yeares, the other of xiii. or xiiii. yeres: The place of the fact cōmitted, was at the saide <hi>Humfrey Staffords</hi> lodging, then in the Parish of Saint <hi>Andrewes</hi> in <hi>Holborne,</hi> to which fact he pleaded not guiltie, and for his tryall, put himselfe vpon God and the Countrie, whereup<g ref="char:EOLhyphen"/>pon for that day, he was returned againe vnto pri<g ref="char:EOLhyphen"/>son in the Kinges Bench in <hi>Southwarke,</hi> the place
+<pb facs="tcp:176943:5"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:176943:5"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:176943:6"/> from whence he came, vntil the eight of <hi>Iune</hi> next following, at which time, the saide <hi>Humfrey Staf<g ref="char:EOLhyphen"/>ford</hi> was againe called to his further answere.</p>
+            <p>Being come vnto the Barre, his Inditement was again read, whereunto he had before pleaded not guiltie, whereupon was presently impanelled a Iurie of Gentlemen for his tryall: Then were called into the Court his accusers: to wit, the two Boyes, <hi>Robinson</hi> and <hi>Crosse,</hi> and one of their Fa<g ref="char:EOLhyphen"/>ther and Mother. Then M. <hi>Stafford</hi> being before their faces, the Boyes were asked whether they knew Maister <hi>Stafford</hi> to be the party whom they meant? they answered yea directly, wherupon an Oath was administred vnto those foure aforena<g ref="char:EOLhyphen"/>med, that they should speake the truth, and no<g ref="char:EOLhyphen"/>thing but truth: The two boyes vpon their oathes did directly charge him with the fact, and the par<g ref="char:EOLhyphen"/>ticulars therof: as the time when, the place where, the manner how, the circustances both precedent and consequent (which here for modestye sake I ouer passe.) The man and the Woman testified onelye some matters ensuing vpon the fact, for confirmation of the truth of the Boies allegati<g ref="char:EOLhyphen"/>ōs, shewing that the boyes had receiued hurt ther<g ref="char:EOLhyphen"/>by, &amp; that they were forced to vse the helpe of a Surgiō for their cure. Maister <hi>Stafford</hi> stil denyed the fact, affirming and protesting that hee was guiltlesse therein, excusing himselfe, that if he had offended it was in wine; but the Iurie after a little <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eliberation returned him guiltie, whereupon
+<pb facs="tcp:176943:6"/> one of the Iudges made an exhortatiō vnto him, withall demaunding what he could say for him<g ref="char:EOLhyphen"/>selfe, wherefore iudgement should not be pro<g ref="char:EOLhyphen"/>nounced against him? Whereupon Maister <hi>Stafford</hi> desired three or foure dayes respite be<g ref="char:EOLhyphen"/>fore sentence were pronounced: for (said hee) I haue some thing to speake, which for some causes vnto my selfe knowne I cannot now vtter. But the honorable bench being not satisfied with that dilatorie answere, Iudgement was presently pro<g ref="char:EOLhyphen"/>nounced, That he shold be conueyed from thence to the place of Execution, there to bee hanged till he were quite dead. The sentence pronoūced, the prisoner was returned backe to the place from whence he came, where he remained vntill the 10. of the same month of <hi>Iune,</hi> being Wednesday following, in which time hee disposed himselfe to God-ward, hauing made his will, &amp; bequeathed his body to be buried in the Church of S. <hi>George</hi> in Southwarke.</p>
+            <p>During the time of his being in Prison, the knowledge of his fact, and the report of the sen<g ref="char:EOLhyphen"/>tence pronoūced against him, cōming vnto some Recusants in the Kings bēch-prison, they studied much how they might seperate him from the bo<g ref="char:EOLhyphen"/>die of our Church, being a Gent. of good descent, vnto which end they wrote a certain Letter vnto him in Latine, which was closely conueyed vn<g ref="char:EOLhyphen"/>to him, therein perswading him that there was no Saluation in our Church, and that he should not
+<pb facs="tcp:176943:7"/> admitte of any of our Ministers to conferre with him, but that he should be Cōfessed by some Se<g ref="char:EOLhyphen"/>minarie Priest, which Letter Maister <hi>Stafford</hi> ha<g ref="char:EOLhyphen"/>uing receiued, shewed it vnto some of his friends and being himselfe in conscience perswaded of the truth of our Religion, he acknowledged a de<g ref="char:EOLhyphen"/>testation of the Romish faith and Religion, sub<g ref="char:EOLhyphen"/>scribed with his owne hand, which was also wit<g ref="char:EOLhyphen"/>nessed by the presence of some others, present at the same time, some of them being men of reue<g ref="char:EOLhyphen"/>rend esteeme, who with their owne mouthes re<g ref="char:EOLhyphen"/>ported it vnto me, which makes me presume of the truth thereof, they being men of known good report, and such as I verilye thinke, make consci<g ref="char:EOLhyphen"/>ence of speaking the least vntruth wittinglye. Which thing I the rather mention, because the world may see how the Papists seeke by al means possible, both in prison &amp; out of prison, to with<g ref="char:EOLhyphen"/>draw his Maiesties Subiects frō the truth of Re<g ref="char:EOLhyphen"/>ligion, vnto the acknowledgement of the false Doctrine of the whore of <hi>Babylon,</hi> and that they more especially labour with, and aime at men of great birth and calling, rather then meane Personages, whereby may be gathe<g ref="char:EOLhyphen"/>red that they doe it more of po<g ref="char:EOLhyphen"/>licy then for Conscience sake.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:176943:7"/>
+            <head>The Execution and confession of Humfrey Stafford Gentleman, <hi>Iune the tenth, 1607, at saint Thomas of Waterings.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He day of his death bee<g ref="char:EOLhyphen"/>ing come, he prepared him<g ref="char:EOLhyphen"/>selfe thereunto chearefully, and at his setting forwards, he cald for a cleane band, &amp; other thinges, and being as<g ref="char:EOLhyphen"/>ked the reason why he regar<g ref="char:EOLunhyphen"/>ded those thinges? oh saide hee, I am now going to a moste ioyfull marriage. He obtained (by re<g ref="char:EOLhyphen"/>quest) of maister <hi>Arundell,</hi> (the vnder Marshal of the Kinges Bench Prison) that hee might goe on foote to his death, who himselfe with Maister <hi>Cartwright</hi> minister of S. <hi>Georges</hi> Church (who had laboured much with him for his soules health) did also beare him company, hauing on
+<pb facs="tcp:176943:8"/> the one side his Brother, and on the other side his Kinsman Maister <hi>William Stafford.</hi> And amongst others who accompained him to his death, was lame Maister <hi>Paget,</hi> (a reuerend Prea<g ref="char:EOLhyphen"/>cher of Gods word) who also administred him greatest comfort at his death, although not of purpose thereunto appointed, for Maister <hi>Paget</hi> hauing beene at <hi>Detford</hi> the same day, in his returne thence towards <hi>London,</hi> seeing manye assembled at the ordinarie place of Execution, he demaunded of them the reason thereof, who an<g ref="char:EOLhyphen"/>swered that they expected the comming of mai<g ref="char:EOLhyphen"/>ster <hi>Stafford</hi> from the Kings Bench Prison to suf<g ref="char:EOLhyphen"/>fer there. Whereupon Master <hi>Paget</hi> (willing to doe him good in that extremitie) rode presentlye vnto the Kings Bench to Master <hi>Stafford,</hi> to yeeld him what comfort he could in that extreamite, &amp; to prepare him rightly vnto God.</p>
+            <p>Whereupon Maister <hi>Stafford</hi> reaping much ioy by his ministring, desired his company to his death, whereunto he assented. Maister <hi>Stafford</hi> being come vnto Saint <hi>Thomas</hi> of <hi>Waterings,</hi> at the first, (the throng being greate) hee seemed some<g ref="char:EOLhyphen"/>what amazed, protesting that hee neuer sawe the like (for the weather was exceeding hot, and the prease of people to beholde his death, great.) The rushing and pushing of the people being slacked, Maister <hi>Paget</hi> was desired to come vnto him, at whose comming, Maister <hi>Stafford</hi> presently said, Maister <hi>Paget</hi> is most welcome vnto me, and he
+<pb facs="tcp:176943:8"/> is a man whome I reuerence with all my hart, &amp; then immediately he began to make a general ac<g ref="char:EOLhyphen"/>knowledgement of his sins. Then saide M. <hi>Fa<g ref="char:EOLhyphen"/>get,</hi> I pray you that you will satisfie the world for this fact, for which you are now to dye, I desire not the particulars of it. M. <hi>Stafford</hi> replyed with a lowde voice, <hi>I acknowledge that I haue deserued death but yet I could not performe mine intention;</hi> whereat hee bowed towards the Preacher, and o<g ref="char:EOLhyphen"/>ther his friendes, adding with a verie lowe voice <hi>For I could not put it in Execution for drunkennesse.</hi> Then M. <hi>Paget</hi> willed him to testifie vnto the world, whether he were not one of those Atheists of the world, who denied that there was a God? No, sayd hee, although my former life mispent, might iustly occasion this question to be moued, yet I vtterly disclaime it, hoping to bee saued by the alone merrits of Christ Iesus, and not by any merrits of mine owne: and although it may bee iustly saide that <hi>Humprey Stafford,</hi> liued a moste wretched life, yet beare me witnesse I beseech you, that now I dye a moste repentant sinner.</p>
+            <p>Then M <hi>Paget</hi> in this his agonye and conflict for his sinnes, comforted him with the examples of many repentant sinners, who vppon their true repentance were receiued into grace and pardo<g ref="char:EOLhyphen"/>ned, as namely that of <hi>Ionas,</hi> of <hi>Manasses,</hi> the <hi>Pro<g ref="char:EOLhyphen"/>digall Childe,</hi> the <hi>Theese vpon the Crosse,</hi> at which wordes, Maister <hi>Stafford</hi> like the true peni<g ref="char:EOLhyphen"/>tant Publican, beate his breast, lifting vp his hands
+<pb facs="tcp:176943:9"/> and eyes towards heauen. Then saide Maister <hi>Paget,</hi> be of good Comfort, and pray that thou mayest bee that <hi>brand taken out of the fire,</hi> hee re<g ref="char:EOLhyphen"/>plyed that he hoped he was, and that his sparke of ioy was turned into a flame. Seeing said master <hi>Pa<g ref="char:EOLhyphen"/>get</hi> he is so penitent, let vs not cast him downe, fur<g ref="char:EOLhyphen"/>ther, with the burthen of his sinnes, then happilye in this so small a space I shal be able to raise him a<g ref="char:EOLhyphen"/>gaine.</p>
+            <p>Now, said maister <hi>Paget,</hi> shal we sing a psalme vnto the praise of God? I will said hee, beare you company, wherupon was sung the xxv Psalm, be<g ref="char:EOLunhyphen"/>ginning thus: <hi>I lift my heart to thee, &amp;c.</hi> the Psalme being ended, now said maister Paget, I hope you are able to pray your selfe: I will follow you (saide he) if you please to begin, whereupon, maister <hi>Pa<g ref="char:EOLhyphen"/>get</hi> made a breefe, but an effectuall prayer, which maister <hi>Stafford</hi> prayed after him, that the Lord would mollifie and soften his hard heart, which till then had beene so obdurate, and pardon and forgiue his manifolde sins and wickednes, which so long he had wallowed in. After which, hee de<g ref="char:EOLhyphen"/>uoutlye repeated the mother of all prayers, the prayer of Christ in the Gospell, that fountain head of all Petitions, through which the springes of Gods mercies are opened vnto vs, as on the con<g ref="char:EOLhyphen"/>trarie, vnthankfulnesse is <hi>Ventus vrens,</hi> a par<g ref="char:EOLhyphen"/>ching winde that dries vp al the passages, and cho<g ref="char:EOLhyphen"/>keth the fountaines of Gods free mercies and boū<g ref="char:EOLhyphen"/>ties
+<pb facs="tcp:176943:9"/> vnto vs.</p>
+            <p>All this while maister <hi>Stafford</hi> stood vpon the lower-most step of the Ladder, and being readie to ascend, the Executioner threw downe an Ash-coloured silke garter to fasten his handes, whereat (said he) it shal not be needfull, for I am resolued to die. Nay, but saide master <hi>Paget,</hi> you know not what extremitie of paine may force you vnto, whereby you may wrong your self: then said ma<g ref="char:EOLhyphen"/>ster <hi>Stafford</hi> let it be so: then hee fastned his owne handes before him, (and his soule doubtlesse fastned vnto euerlasting peace in Christ the Re<g ref="char:EOLhyphen"/>deemer) but yet so as if he had but stroue to vn<g ref="char:EOLhyphen"/>loose them, it might easily haue beene performed.</p>
+            <p>Ascending higher vpon the Ladder with a Ioude and audible voice, hee out of true and per<g ref="char:EOLhyphen"/>fect contrition, acknowledged againe that hee had been a greeuous offender many and diuerse waies and lifting vp his voice to the people, prayed that his death might be a warning to all others, to be<g ref="char:EOLhyphen"/>ware how they gaue vp themselues to wine, swea<g ref="char:EOLhyphen"/>ring, and companie keeping with such as he tear<g ref="char:EOLhyphen"/>med good fellowes, which from his youth hee had greatly delighted in, but especially he wished that all men would haue a care neuer to delight in ma<g ref="char:EOLhyphen"/>king of men drunk, which, as it should seeme, was the sin his soule then chiefly stood guiltie of Fur<g ref="char:EOLhyphen"/>thermore, also thanking the Lord for one especial comfort, which his soule now at the houre of his death reioyced in, to wit, that he was guiltlesse of
+<pb facs="tcp:176943:10"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:176943:10"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:176943:11"/> the blood of any man, which might well be a great ioy, and vnualuable comfort vnto a soule vntimely departing. I forgiue, (said he) al the world, and him that sought my blood, euen as I would that the world should forgiue me, for they were not mine enemies that brought me to mine end, &amp; this my death, but God of his mercie called me, that I might be saued from eternall death.</p>
+            <p>Then said he againe with a loude voice, I be<g ref="char:EOLhyphen"/>seech you let me heare you speake cheerfully that you freely forgiue me; whereat there was an ex<g ref="char:EOLhyphen"/>ceeding great noyse with the peoples praying and condiscending: for this his true and vnexpected contrition in his end, made amends for all his for<g ref="char:EOLhyphen"/>mer sinnes of his life, though neuer so loathsome &amp; vnnatural. As he was thus preparing for death, hauing before vnbraced his bosome, and looking vpon his owne breast, I thinke (said he) I shall bee long in dying, because I am whole chested, wher<g ref="char:EOLhyphen"/>vpon master <hi>Paget</hi> out of a Christian loue wished the Hangman to shew him as much fauour as he could in his death, and not to put him to any more torment then needes he must: wherevnto maister <hi>Stafford</hi> replied, that if he were two whole yeares in dying, he would willingly vndergoe it, for his sinnes had deserued it; yet that his ioyes in Christs mercies were exceeding, and that hee hoped assu<g ref="char:EOLhyphen"/>redly, that all his sinnes were pardoned, withall confessing that hee had consumed much in riot<g ref="char:EOLhyphen"/>tousnesse, and abhorred liuing, which might haue
+<pb facs="tcp:176943:11"/> relieued many a poore creature, and done many thousands good: but to his exceeding present sor<g ref="char:EOLhyphen"/>row he had spent all most vainly and wickedly. The Executioner being some waies moued, sware a great oath, which maister <hi>Stafford</hi> hearing, re<g ref="char:EOLhyphen"/>prooued him for it, telling him that such courses had brought him to this end.</p>
+            <p>He tooke his last farewell of his brother, with<g ref="char:EOLhyphen"/>all importuning him not to be vnmindfull of some priuate businesse wherewith he had formerly ac<g ref="char:EOLhyphen"/>quainted him, who much grieuing for his bro<g ref="char:EOLhyphen"/>ther, and not able to endure to see him die, depar<g ref="char:EOLhyphen"/>ted a little before his turning off. Goe now bro<g ref="char:EOLhyphen"/>ther (said he) farewell till we meet in heauen. And perceyuing that his brother tooke his death so heauily, I hope (said he) maister <hi>Paget</hi> will com<g ref="char:EOLhyphen"/>fort you: who answered, that hee would doe what God would enable him vnto, if hee pleased to re<g ref="char:EOLhyphen"/>sort vnto him. Then took he his leaue of diuers, &amp; amongst the rest, be spake verie heartily vnto mai<g ref="char:EOLhyphen"/>ster <hi>Arundell,</hi> vnder Marshall of the Kings Bench, thanking him for his extraordinarie fauours and kindnesse shewed vnto him in the time of his imprisonment.</p>
+            <p>The Halter being put about his necke, come (saide he) This Halter is more welcom vnto mee then euer was Ruffe or falling Band: whereupon his friendes looking heauily, hee desired them not to be discomforted, for they should see him die like a Christian, and in that they should haue ioy and
+<pb facs="tcp:176943:12"/> comfort of him. For whereas by reason of the wilde affections and vnbrideled follyes of his youth, they had had but small comfort of him, in his former life, hee stroue nowe to make amendes by putting the more into his death, which indeede (not without great cause) gaue them all much cause of reioycing. For a notorious general sinner dying, all the time of his riotous life to Godwards, as soone as he heartily repents him of his sins, then he begins his life with God, when he prooues a dead man vnto the world, and vtter<g ref="char:EOLhyphen"/>ly mortifies all his filthie affections: so hee neuer truely liued til death toucht him, and a true feeling of all his former offences. The sence and appre<g ref="char:EOLhyphen"/>hension of death makes men wise, and those that haue spent most follies in their youth, reape most wisdome at such an houre.</p>
+            <p>A little before his turning of the ladder, I had thought (saide he) to haue leaped off, which yet I will not doe, least I should bee thought to dye des<g ref="char:EOLhyphen"/>perately, and yet the world shall see I will not dye fearefully. His countenance could not be percei<g ref="char:EOLhyphen"/>ued to alter much at any time, because hee was a man of an high colour, (for he was of a verie San<g ref="char:EOLhyphen"/>guine Complexion) yet now death seemde a litle to take possession in his eie, for his looke began to be heauie, (for who amongst a million is so har<g ref="char:EOLhyphen"/>die-valiant, at the doore of whose heart death ar<g ref="char:EOLhyphen"/>riues not fearefull) knowing wee must all giue ac<g ref="char:EOLhyphen"/>count to God the Auditor, at the dreadfull day of
+<pb facs="tcp:176943:12"/> Iudgement, that Auditor whome mans shallowe wit cannot describe, Incomprehensible, iust, re<g ref="char:EOLhyphen"/>specting no person, the King is his Bayly, to giue him account, as well as the Begger, tis not thy per<g ref="char:EOLhyphen"/>son, not thy state, not thy power, not thy Authori<g ref="char:EOLhyphen"/>tie and place in this world, which God respectes: That Auditor will not be with bribes corrupted, not ritches, and the vnspeakeble numberlesse treasures of the world, but pure hearts and consci<g ref="char:EOLhyphen"/>ences, washt in the blood of that immaculate lamb preuaile with his mercies.</p>
+            <p>The Phisitians are of opinion, that a bone being broken in the leg or elsewhere, if it be skilfullye set is faster euer after then any of the rest, so the true repentant sinner, hauing a broken &amp; contrite heart in this world for his offences past, may haue a surer affiance and trust in that Rocke Christ Iesus, for <hi>through Tribulation, and heartie sorrow we enter in<g ref="char:EOLhyphen"/>to peace, and euerlasting Glorie, &amp; there is more ioy in heauen for one sinner that repenteth, then for many that neede no repentance.</hi>
+            </p>
+            <p>Now being vppon the point of turning off, hee stroue much with himselfe to expresse the hartines of his repentancce vnto the world, for as his owne wordes gaue him out, <hi>I am</hi> (saide he) <hi>the moste peni<g ref="char:EOLhyphen"/>tent man in the world,</hi> withal adding, <hi>that if his sins were in number as manye as the sandes vpon the Sea<g ref="char:EOLhyphen"/>shore, or the drops of water that are therein, yet were Gods mercies aboue them all yea</hi> (said he) <hi>his mercies are farre more then the sinnes of all this company, and
+<pb facs="tcp:176943:13"/> yet heere</hi> (looking about him) <hi>are a great many,</hi> and so praying earnestly to God to receiue his soule in to his Kingdome, he willed the Executioner to do his office, but his face being yet not well couered, the Executioner staying a little, he againe added, <hi>Thou hast redeemed me oh Lord God of my saluation, into thy hands I cōmend my spirit. Now, Executioner, I pray thee do thy Office,</hi> and then immediately he was turned off the Ladder, not with<g ref="char:EOLhyphen"/>out greate lamentation of the mul<g ref="char:EOLhyphen"/>titude and generall praying for the happines of his soule.</p>
+            <p>
+               <hi>After that his Bodie had fullie satisfied the Law, it had on the morrow Christian Buriall in Saint Georges-Church in South<g ref="char:EOLhyphen"/>warke.</hi>
+            </p>
+            <epigraph>
+               <q>Mors illi lucrum.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176943:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
